@@ -23,7 +23,7 @@ title: PiPlotter
 description: >- # this means to ignore newlines until "baseurl:"
   PiPlotter and other project descriptions, tutorials, materials.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://matthewmerrill.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.piplotter.com # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 github_username:  MatthewMerrill
 
