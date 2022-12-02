@@ -14,4 +14,4 @@ In short, I hope this website reads as an escape room more than a recipe book.
 
 ## Materials
 
-- [Work Breakdown Templates](/breakdowns)
+- [Work Breakdown Templates](./breakdowns)
