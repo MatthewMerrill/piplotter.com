@@ -15,3 +15,9 @@ In short, I hope this website reads as an escape room more than a recipe book.
 ## Materials
 
 - [Work Breakdown Templates](./breakdowns)
+
+## Posts
+
+{% for post in site.posts %}
+ - [{{post.title}}]({{ post.url }})
+{% endfor %}

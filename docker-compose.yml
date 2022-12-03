@@ -1,0 +1,15 @@
+version: "2.4"
+
+services:
+  jekyll:
+    image: bretfisher/jekyll-serve
+    command: bundle exec jekyll serve --force_polling --future --draft -P 4000
+    volumes:
+      - .:/site
+    ports:
+      - "4000:4000"
+
+networks:
+  default:
+    name: host
+    external: true
